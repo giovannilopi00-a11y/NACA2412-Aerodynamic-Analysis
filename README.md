@@ -78,7 +78,7 @@ The complete workflow is available in the Jupyter notebook included in this repo
 
 ## Project Files
 
-- `NACA2412_analysis(finale).ipynb` — complete Python analysis
+- `NACA2412_analysis.ipynb` — complete Python analysis
 - `NACA2412_All_Reynolds.csv` — combined aerodynamic dataset
 - `NACA2412.xlsx` — Excel calculations and charts
 - `CL_Reynolds_Comparison.png` — lift comparison
